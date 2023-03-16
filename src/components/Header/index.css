@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+
+* {
+  font-family: 'Roboto';
+}
+
+.header-img {
+  width: 50px;
+}
+
+.home {
+  color: #12022f;
+  cursor: pointer;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.home1 {
+  color: #12022f;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-elements {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

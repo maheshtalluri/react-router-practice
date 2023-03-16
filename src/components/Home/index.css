@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.home-component {
+  color: #6d396b;
+  font-size: 50px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
